@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://meineitoth.raulikidj.club/sitemap.xml
